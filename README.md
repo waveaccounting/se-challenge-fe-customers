@@ -21,7 +21,7 @@ Imagine that this is the early days of Wave's history, and that **we are prototy
 
 Customer information page should do the following:
 
-- Retrieve the data from the GET endpoint: https://cdn.jsdelivr.net/gh/wvchallenges/se-exp-challenge-invoice@master/settings.json
+- Retrieve the data from the GET endpoint: https://waveaccounting.github.io/se-challenge-fe-customers/settings.json
   - use fetch, XHR, JQuery or whatever library you're familiar with.
 - Show a list of customers (in the JSON under the "customers" key).
 - Let the user select a customer for editing, which shows a form with:
