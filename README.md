@@ -41,7 +41,7 @@ Please modify `README.md` to add:
 
 ## Submission Instructions
 
-1. Clone the repository.
+1. Clone the [repository](https://github.com/waveaccounting/se-challenge-fe-customers).
 1. Complete your project as described above within your local repository.
 1. Ensure everything you want to commit is committed.
 1. Create a git bundle: `git bundle create your_name_front_end.bundle --all`
