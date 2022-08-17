@@ -18,18 +18,18 @@ Feel free to email [dev.careers@waveapps.com](dev.careers@waveapps.com) if you h
   - [Functional Requirements:](#functional-requirements-)
   - [Technical requirements:](#technical-requirements-)
   - [Visual/UX Requirements:](#visual-ux-requirements-)
-    - [Language requirements: HTML/JSX, CSS, JS](#language-requirements--html-jsx--css--js)
+  - [Language requirements: HTML/JSX, CSS, JS](#language-requirements--html-jsx--css--js)
 - [Documentation:](#documentation-)
 - [Submission Instructions](#submission-instructions)
 - [Evaluation](#evaluation)
 
-## Project Background:
+## Project Background
 
 Imagine that this is the early days of Wave's history, and that **we are prototyping a new invoicing system** in Canada. Our users are small business owners who need to generate professional-looking invoices to send to their customers. For this code challenge, build out **the settings page where users (business owners) can manage their customers' information**. Our prototype will be entirely API-driven and use a Javascript single-page app as the interface to our APIs.
 
-## Requirements:
+## Requirements
 
-### Functional Requirements:
+### Functional Requirements
 
 Customer information page should do the following:
 
@@ -47,7 +47,7 @@ Customer information page should do the following:
 - Name and email fields are required. Empty values should present an error message if submitted.
 - On form submit, log the JSON payload to console (no need to mock out server calls!)
 
-### Technical requirements:
+### Technical requirements
 
 - Your application should be easy to run and browse, and should run on either Linux or Mac OS X.
 - It should not require any non open-source software.
@@ -62,7 +62,7 @@ There isn't a particular design we want you to recreate. The UI doesn't have to 
 - The page is useable on desktop and mobile devices
 - It will be easy to add more styling later
 
-### Language requirements: HTML/JSX, CSS, JS
+### Language requirement
 
 - Should be built in vanilla JS, Typescript or a JS-based framework (React, Angular, Vue etc).
   - Use any JS framework, tooling, scaffolding, starter-kits you are comfortable with that feels appropriate for this challenge. At Wave, we have used Backbone, Angular, React with the emphasis being heavily on React for current work.
@@ -71,7 +71,7 @@ There isn't a particular design we want you to recreate. The UI doesn't have to 
   - The page should be responsive.
   - But don't spend too much time making the app look pretty, we only expect the basics.
 
-## Documentation:
+## Documentation
 
 Please modify `README.md` to add:
 
