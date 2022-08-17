@@ -11,7 +11,7 @@ Please use whatever tools or frameworks you feel the most comfortable with.
 
 Feel free to email [dev.careers@waveapps.com](dev.careers@waveapps.com) if you have any questions.
 
-**Table of Content**
+**Table of Contents**
 
 - [Project Background](#project-background)
 - [Requirements](#requirements)
