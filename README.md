@@ -13,13 +13,13 @@ Feel free to email [dev.careers@waveapps.com](dev.careers@waveapps.com) if you h
 
 **Table of Content**
 
-- [Project Background:](#project-background-)
-- [Requirements:](#requirements-)
-  - [Functional Requirements:](#functional-requirements-)
-  - [Technical requirements:](#technical-requirements-)
-  - [Visual/UX Requirements:](#visual-ux-requirements-)
-  - [Language requirements: HTML/JSX, CSS, JS](#language-requirements--html-jsx--css--js)
-- [Documentation:](#documentation-)
+- [Project Background](#project-background)
+- [Requirements](#requirements)
+  - [Functional Requirements](#functional-requirements)
+  - [Technical requirements](#technical-requirements)
+  - [Visual/UX Requirements](#visualux-requirements)
+  - [Language requirement](#language-requirement)
+- [Documentation](#documentation)
 - [Submission Instructions](#submission-instructions)
 - [Evaluation](#evaluation)
 
@@ -53,7 +53,7 @@ Customer information page should do the following:
 - It should not require any non open-source software.
 - Our desire is to approach this in a way that gives us composable, reusable code for use in later features and products. So some thought should be given to how this code could be expanded upon and repurposed.
 
-### Visual/UX Requirements:
+### Visual/UX Requirements
 
 There isn't a particular design we want you to recreate. The UI doesn't have to look beautiful, as long as:
 
