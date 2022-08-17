@@ -11,13 +11,25 @@ Please use whatever tools or frameworks you feel the most comfortable with.
 
 Feel free to email [dev.careers@waveapps.com](dev.careers@waveapps.com) if you have any questions.
 
-## Project Description
+**Table of Content**
 
-### Background:
+- [Project Background:](#project-background-)
+- [Requirements:](#requirements-)
+  - [Functional Requirements:](#functional-requirements-)
+  - [Technical requirements:](#technical-requirements-)
+  - [Visual/UX Requirements:](#visual-ux-requirements-)
+    - [Language requirements: HTML/JSX, CSS, JS](#language-requirements--html-jsx--css--js)
+- [Documentation:](#documentation-)
+- [Submission Instructions](#submission-instructions)
+- [Evaluation](#evaluation)
+
+## Project Background:
 
 Imagine that this is the early days of Wave's history, and that **we are prototyping a new invoicing system** in Canada. Our users are small business owners who need to generate professional-looking invoices to send to their customers. For this code challenge, build out **the settings page where users (business owners) can manage their customers' information**. Our prototype will be entirely API-driven and use a Javascript single-page app as the interface to our APIs.
 
-### Functional requirements:
+## Requirements:
+
+### Functional Requirements:
 
 Customer information page should do the following:
 
@@ -50,7 +62,7 @@ There isn't a particular design we want you to recreate. The UI doesn't have to 
 - The page is useable on desktop and mobile devices
 - It will be easy to add more styling later
 
-#### Language requirements: HTML/JSX, CSS, JS
+### Language requirements: HTML/JSX, CSS, JS
 
 - Should be built in vanilla JS, Typescript or a JS-based framework (React, Angular, Vue etc).
   - Use any JS framework, tooling, scaffolding, starter-kits you are comfortable with that feels appropriate for this challenge. At Wave, we have used Backbone, Angular, React with the emphasis being heavily on React for current work.
@@ -59,7 +71,7 @@ There isn't a particular design we want you to recreate. The UI doesn't have to 
   - The page should be responsive.
   - But don't spend too much time making the app look pretty, we only expect the basics.
 
-### Documentation:
+## Documentation:
 
 Please modify `README.md` to add:
 
